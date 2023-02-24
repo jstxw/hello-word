@@ -1,3 +1,7 @@
-# hello-word
-git-hub introduction
-hello!
+# Computer Science (Gr 10) Notes
+Terminal Commands
+keyboard Shortcuts
+Variables
+Input/ Output
+IPO
+
